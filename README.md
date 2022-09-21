@@ -11,16 +11,27 @@ And ML Libraries and approaches - scikit-learn (sklearn: train/test, preprocessi
 
 TABLE OF FIGURES
 Figure 1: Correlation Heatmap using Seaborn
+
 Figure 2: Correlation Plot using Seaborn
+
 Figure 3 & 4: Boxplot & Violin Plot using Seaborn
+
 Figure 5 & 6: Bar Chart & Line Graph using Seaborn
+
 Figure 7: Scree plot to see optimal factors
+
 Figure 8: Joyplot using Class
+
 Figure 9: Pairplot with Seaborn for correalations
+
 Figure 10: Calculate N_Components
+
 Figure 11: Decision Tree Model using graphviz
+
 Figure 12: Decision Tree Model with Entropy
+
 Figure 13: Decision Tree Model with Gini
+
 Figure 14: Optimal Clusters using Yellowbrick
 
 Standard EDA, checking for outliers, blank spaces etc.
